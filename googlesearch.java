@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 public class GoogleSearch {
 	public static void main(String[] args) throws Exception {
-                System.out.println("Test Start");
+                System.out.println("Test Start  ");
         //not yet complet try to use this https://github.com/Ardesco/Selenium-Maven-Template/blob/master/pom.xml
 	//to do ===> http://www.software-testing-tutorials-automation.com/2015/04/data-driven-test-using-csv-file-in.html
         System.setProperty("webdriver.gecko.driver", "/mnt/geckodriver11");
